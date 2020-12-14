@@ -1,6 +1,6 @@
 # openfortivpn
 
-Este script instalará el cliente de Openfortivpn a través de los repositorios de Ubuntu, nosotros indicaremos la versión.
+Este script instalará el cliente de Openfortivpn a través de los repositorios de Ubuntu, nosotros indicaremos la versión de nuestro Ubuntu.
 
 ## Uso del script:
 Debemos otorgar permisos de ejecución al script:
